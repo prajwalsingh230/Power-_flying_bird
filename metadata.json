@@ -1,0 +1,6 @@
+{
+  "name": "Power Flying Bird",
+  "description": "A dark neon-cyber procedural flying and shooting game featuring stable vertical flight, plasma lasers, and alien drone monsters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
